@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #dddddd63;
+  }
+  
+  /* tr:hover {background-color: #D6EEEE;} */
+
+  .banner{
+    background-color:lightcoral ;
+    width: 100%;
+    height: 100px;
+    margin-bottom: 40px;
+  }
+  .banner text{
+    padding-top: 50px;
+    text-align: center;
+    transform: transform;
+  }
